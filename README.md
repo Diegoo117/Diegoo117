@@ -4,7 +4,8 @@ Hi 👋 My name is Diego 😉
 Frontend Developer en formación 🖥️
 ------------------
 
-Hola 😄 Soy Diego, soy Ingeniero Mecatrónico, actualmente me estoy formando como Web Developer, quiero ser Full-Stack Developer, y con el tiempo tambien ser Data Science. 🧠⚡ Solo yo me pongo los limites de lo que quiero.
+Hola 😄 Soy Diego, soy Ingeniero Mecatrónico, actualmente me estoy formando como Web Developer, quiero ser Full-Stack Developer, y con el tiempo tambien ser Data Science. 🧠⚡ 
+> "No hay límite posible para la expanción de cada uno de nosotos" - Charles M. Schwab 
 
 
 ### Skills
