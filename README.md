@@ -1,6 +1,7 @@
 Hi 👋 My name is Diego 😉
 ==========================
-<img scr="./pixel-jeff-mario.gif" >
+
+![pixel-jeff-mario](https://user-images.githubusercontent.com/93417355/186056625-7d949c4c-869b-447b-b2e0-3bd2efd94e21.gif)
 
 Frontend Developer en formación 🖥️
 ------------------
