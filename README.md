@@ -1,5 +1,6 @@
 Hi 👋 My name is Diego 😉
 ==========================
+<img scr="./pixel-jeff-mario.gif" >
 
 Frontend Developer en formación 🖥️
 ------------------
